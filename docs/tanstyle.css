@@ -1,0 +1,26 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  }
+
+.intropic{
+  background-color: darkgreen;
+  width: 600px;
+  height: 128px;
+  object-fit: cover;
+  color: antiquewhite;
+}
+
+.socialinks{
+  color: red;
+  width: 600px;
+  height: 128px;
+}
+
+.banner-image {
+  width: 128px;
+  height: 128px;
+  object-fit: cover
+  background-color: blue;
+
+  }
